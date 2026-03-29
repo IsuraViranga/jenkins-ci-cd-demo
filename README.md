@@ -39,7 +39,7 @@ jenkins-node-app/
 
 ---
 
-## ⚙️ CI/CD Pipeline Floww
+## ⚙️ CI/CD Pipeline Flow
 
 ```
 GitHub Push
